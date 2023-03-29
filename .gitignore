@@ -1,0 +1,11 @@
+data/
+# py cache in every place 
+__pycache__/
+**/__pycache__/
+**/__pycache__/**
+.vscode/
+logfile/
+results/
+modelpara/
+*.pyc
+**.pyc
